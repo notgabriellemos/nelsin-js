@@ -6,7 +6,7 @@ module.exports = [
         "author": "Walter White"
     },
     {
-        "quote": "Alright, I've got the talking pillow now... Okay?",
+        "quote": "Tudo bem, eu tenho o travesseiro da fala agora, ok?",
         "author": "Walter White"
     },
     {
